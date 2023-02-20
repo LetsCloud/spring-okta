@@ -3,4 +3,4 @@ The projects in this repo illustrate the application of the [OAuth 2.0 authoriza
 According to the OAuth 2.0 RFC specification:
 *The OAuth 2.0 authorization framework enables a third-party application to obtain limited access to an HTTP service, either on behalf of a resource owner by orchestrating an approval interaction between the resource owner and the HTTP service.*
 
-![This is an image](doc/okta-oauth.png)
+![This is an image](/doc/okta-oauth.png)
