@@ -6,7 +6,9 @@ According to the OAuth 2.0 RFC specification:
 The figure below illustrates the components and the processes taking place between them:
 ![This is an image](/doc/okta-oauth.png)
 0. Create Application Integration
+
 As part of the preparation, the web application must be registered in the Okta authorization server.
+
 1. User runs the web application
 2. Redirection to Okta
 
